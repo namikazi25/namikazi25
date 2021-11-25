@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shopnil
 - 👀 I’m interested in learning and building things
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on projects about data analysis or machine learning
+- 🌱 I’m currently interested in Artificial Intelligence and Augmented Reality
+- 💞️ I’m looking to collaborate on projects related to AI and ML. 
 - 📫 How to reach me sharears4077@gmail.com
 
 <!---
