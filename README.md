@@ -9,11 +9,11 @@ I'm an AI/ML Engineer and Researcher with a focus on:
 ### 🌱 Current Interests
 - Fine-tuning LLMs and VLMs for **context generation** and **reasoning tasks**
 - Building **RAG platforms**, **AI copilots**, and **interactive knowledge systems**
-- Exploring **AI safety**, **causal inference**, and **self-replicating autonomous agents**
+- Exploring **AI safety**, **causal inference**, and **preventing self-replicating autonomous agents**
 
 ### 🔗 Explore My Work
 - Check out my **pinned repositories** for hands-on projects
-- Notable builds: `EcoBot`, `FarmerChat`, CV-Job Matching System, Supply Chain Scorecards
+- Notable builds: `EcoBot`, `FarmerChat`, `CV-Job Matching System`, `Supply Chain Scorecards`
 
 ### 🤝 Looking to Collaborate?
 Open to research collaborations, hackathons, or building AI startups. Let's connect.
